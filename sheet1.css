@@ -1,0 +1,26 @@
+body{
+	background-color: #DEB887;
+	color: #F8F8FF;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+h1{
+	background-color: #5F9EA0;
+	color: #F8F8FF;
+	line-height: 200%;
+	font-family: Georgia, "Times New Romain", serif;
+	text-shadow: 3px 3px 5px #CCCCCC;
+}
+h2{
+	background-color: #90EE90;
+	color: #F8F8FF;
+	font-family: Georgia, "Times New Romain", serif;
+	text-align: center;
+}
+p{
+	font-size: .90em;
+	text-indent: 3em;
+}
+ul{
+	font-weight: bold;
+}
